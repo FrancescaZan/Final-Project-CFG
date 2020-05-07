@@ -16,8 +16,6 @@ You will be working in a team of 2-3 students assigned by the instructors.
   - Your work must include at least 3 visualisations.
   - The code should be clean and easy to read.
   - You are free to use any Python library.
-- There will be no class on session 11, but use this session as an interim progress report to your mentor.
-- The client will choose a winning team, and there will a prize for the winning team!!
 
 ## Presentation
 
